@@ -1,8 +1,5 @@
 # PhET-style Electric Field Lab — 수업 배포 패키지
 
-## 학생에게 배포할 파일
-이 ZIP 파일 하나만 배포하면 됩니다.
-
 ## 폴더 구성
 
 - `phet_electric_field_class_drag/`
