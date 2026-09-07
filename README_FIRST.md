@@ -2,7 +2,7 @@
 
 ## 폴더 구성
 
-- `phet_electric_field_class_drag/`
+- `phet_style_E_field_example/`
   - 실제 수업용 시뮬레이션 프로젝트
   - `app.py`
   - `physics.py`
@@ -15,7 +15,7 @@
 
 ## 실행 요약
 
-VS Code에서 `phet_electric_field_class_drag` 폴더를 연 뒤 Terminal에서:
+VS Code에서 `phet_style_E_field_example` 폴더를 연 뒤 Terminal에서:
 
 ```text
 uv sync
