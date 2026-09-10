@@ -14,11 +14,11 @@ from physics import field_and_potential, probe_measurement
 # ------------------------------------------------------------
 DEFAULT_POSITIONS = {
     "x1": -1.5,
-    "y1": 0.0,
+    "y1": 1.0,
     "x2": 1.5,
     "y2": 0.0,
 }
-CHARGE_RADIUS = 0.30
+CHARGE_RADIUS = 0.50
 AXIS_LIMIT = 5.0
 POSITION_LIMIT = AXIS_LIMIT - CHARGE_RADIUS - 0.05
 
